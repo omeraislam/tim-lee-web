@@ -1,0 +1,57 @@
+body{
+    text-align: center;
+    
+}
+#welcome{
+    background:linear-gradient(cyan 0%,green 100%);
+    margin-top: 30px;
+    
+    color:darkblue;
+    font-family: cursive;
+}
+#bio{
+    background:linear-gradient(red 0%,yellow 100%);
+    color: darkblue;
+    font-family: cursive;
+    text-align: center;
+
+}
+p{
+    font-size: 30px;
+}
+img{
+    width: 400px;
+    height:400px;
+    border-radius:50px;
+    
+}
+.line{
+    height:6px;
+    background-color: black;
+    width:100px;
+    margin: 8px auto;
+    text-align: center;
+}
+.menu{
+    list-style: none;
+    font-family: cursive;
+    cursor: pointer;
+    
+}
+.links{
+    float: left;
+    color: darkcyan;
+    font-family: cursive;
+    font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-weight: bold;
+    
+    
+}
+.links:hover{
+    background-color: azure;
+    
+}
