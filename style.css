@@ -55,3 +55,7 @@ img{
     background-color: azure;
     
 }
+.article:hover{
+    color: black;
+    background-color: darkgray;
+}
